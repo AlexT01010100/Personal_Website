@@ -1,0 +1,16 @@
+{
+    "name": "17169/personal_website",
+    "description": "json_file_test",
+    "autoload": {
+        "psr-4": {
+            "17169\\PersonalWebsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Terry",
+            "email": "alterry@buffalo.edu"
+        }
+    ],
+    "require": {"phpmailer/phpmailer": "^6.9"}
+}
